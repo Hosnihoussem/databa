@@ -1,0 +1,14 @@
+1 Presenting each of the RDBMS and their functionalities
+
+Though not strictly based on relational theory, RDBMS is a product that showcases data arranged as a collection of rows and columns. And these RDBMS products follow some of the Codd’s 12 rules.
+
+With an RDBMS, it is possible to embed a collection of programs or capabilities, enabling IT and other related teams to create, edit, update, manage and interrelate with a relational database.
+
+Structured query language (SQL) is implemented by most commercial RDBMS systems for accessing the database. Some experts are of the opinion that RDBMS can run by itself without the intervention of SQL as it was developed after the introduction of the relational model.
+
+2-A comparison between the three RDBMS
+
+The relational data model, which organizes data in tables of rows and columns, predominates in database management tools. Today there are other data models, including NoSQL and NewSQL, but relational database management systems (RDBMSs) remain dominant for storing and managing data worldwide.
+
+This article compares and contrasts three of the most widely implemented open-source RDBMSs: SQLite, MySQL, and PostgreSQL. Specifically, it will explore the data types that each RDBMS uses, their advantages and disadvantages, and situations where they are best optimized.
+
